@@ -8,6 +8,7 @@
 - *PyGame*
 - *Flask, REST API*
 - *SQLite*
+- *HTML/CSS*
 
 ## 🧠 Мои Soft Skills:
 
