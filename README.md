@@ -2,7 +2,7 @@
 
 *💡 Python-разработчик, интересуюсь GameDev.*
 
-*## 🔧 Мои Hard Skills:*
+# 🔧 Мои Hard Skills:
 
 - *Python*
 - *PyGame*
