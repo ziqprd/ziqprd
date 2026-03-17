@@ -1,8 +1,8 @@
-## Привет! 👋 Я Клим
+# Привет! 👋 Я Клим
 
 *💡 Python-разработчик, интересуюсь GameDev.*
 
-# 🔧 Мои Hard Skills:
+## 🔧 Мои Hard Skills:
 
 - *Python*
 - *PyGame*
