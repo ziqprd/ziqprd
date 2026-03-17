@@ -6,7 +6,7 @@
 
 - *Python*
 - *PyGame*
-- *Flask, REST API*
+- *Flask*
 - *SQLite*
 - *HTML/CSS*
 
